@@ -4,6 +4,6 @@
     xmlns="http://namespaces.zope.org/zope">
 
     <plone:static
-        directory="theme/grungera" type="theme" />
+        directory="theme/grungeera" type="theme" />
 
 </configure>
