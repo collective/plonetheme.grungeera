@@ -24,21 +24,7 @@
     <copy content='//*[@id="portal-globalnav"]' theme='//*[@id="nav"]' />
     <copy content='//*[@id="portal-searchbox"]' theme='//*[@id="quick-search"]' />
 
-    <drop theme='//*[@id="intro"]' />
-    <drop theme='//*[@id="logo-text"]' />
-    <drop theme='//*[@id="post2"]' />
-    <drop theme='//*[@id="rss"]' />
-
     <append content='//*[@id="portal-siteactions"]' theme='//*[@id="footer-outer"]' />
     <append content='//*[@id="portal-personaltools"]' theme='//*[@id="footer-outer"]' />
-
-    <!-- Pull in Plone Javascript -->
-    <after theme-children="/html/head" content="/html/head/script" />
-
-    <!-- resources 
-    <before content='/html/head' theme='/html/head' />
-    <copy attributes="class" css:content="body" css:theme="body" />
-    <copy attributes="id dir" css:content="body" css:theme="body" />
-    --> 
 
 </rules>
