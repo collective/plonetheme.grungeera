@@ -25,6 +25,7 @@
     <copy content='//*[@id="portal-logo"]' theme='//*[@id="logo-text"]' />
     <copy content='//*[@id="portal-searchbox"]' theme='//*[@id="quick-search"]' />
 
+    <drop theme='//*[@id="intro"]' />
     <drop theme='//*[@id="rss"]' />
 
     <append content='//*[@id="portal-siteactions"]' theme='//*[@id="footer-outer"]' />
