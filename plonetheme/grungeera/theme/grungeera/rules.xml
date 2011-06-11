@@ -31,6 +31,4 @@
     <append content='//*[@id="portal-siteactions"]' theme='//*[@id="footer-outer"]' />
     <append content='//*[@id="portal-personaltools"]' theme='//*[@id="footer-outer"]' />
 
-    <prepend css:theme="#content-outer" css:content="#edit-bar" />
-
 </rules>
