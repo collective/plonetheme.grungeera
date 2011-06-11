@@ -22,10 +22,10 @@
     <copy content='//*[@id="portal-colophon"]' theme='//*[@id="footer-outer"]' />
     <copy content='//*[@id="portal-footer"]' theme='//*[@id="footer-bottom"]' />
     <copy content='//*[@id="portal-globalnav"]' theme='//*[@id="nav"]' />
-    <copy content='//*[@id="portal-logo"]' theme='//*[@id="logo-text"]' />
     <copy content='//*[@id="portal-searchbox"]' theme='//*[@id="quick-search"]' />
 
     <drop theme='//*[@id="intro"]' />
+    <drop theme='//*[@id="logo-text"]' />
     <drop theme='//*[@id="rss"]' />
 
     <append content='//*[@id="portal-siteactions"]' theme='//*[@id="footer-outer"]' />
