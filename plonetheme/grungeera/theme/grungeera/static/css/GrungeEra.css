@@ -184,7 +184,7 @@ input.button {
 /* header */
 #header {
 	position: relative;
-	height: 130px;	
+	height: 100px;	
 	margin: 0; padding: 0;	
 }
 #header h1#logo-text { 
