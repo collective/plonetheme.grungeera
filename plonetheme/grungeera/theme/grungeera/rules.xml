@@ -31,4 +31,7 @@
     <append content='//*[@id="portal-siteactions"]' theme='//*[@id="footer-outer"]' />
     <append content='//*[@id="portal-personaltools"]' theme='//*[@id="footer-outer"]' />
 
+    <!-- Pull in Plone Javascript -->
+    <after theme-children="/html/head" content="/html/head/script" />
+
 </rules>
