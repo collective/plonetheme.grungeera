@@ -50,7 +50,7 @@ Select and enable the theme from the Diazo control panel.
 
 That's it!
 
-You should see (without the calendar):
+You should see:
 
 .. image:: https://github.com/collective/plonetheme.grungeera/raw/master/screenshot.png
 
