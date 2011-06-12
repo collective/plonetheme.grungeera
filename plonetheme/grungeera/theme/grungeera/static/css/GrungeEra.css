@@ -184,7 +184,7 @@ input.button {
 /* header */
 #header {
     position: relative;
-    height: 230px;  
+    height: 100px;  
     margin: 0; padding: 0;  
 }
 #header h1#logo-text { 
@@ -488,5 +488,12 @@ p.thumbs{ padding: 10px 0 0 20px; }
     content: "."; 
 }
 
+/* Plone */
 
+#plone-document-byline, #portal-breadcrumbs {
+    margin-left: 3em;
+}
 
+.documentDescription {
+    margin-left: 2em !important;
+}
