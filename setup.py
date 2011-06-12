@@ -6,7 +6,7 @@ version = '0.1.1'
 setup(name='plonetheme.grungeera',
       version=version,
       description="An installable Diazo theme for Plone 4.1",
-      long_description=open("README.txt").read() + "\n" +
+      long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
