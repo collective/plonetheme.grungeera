@@ -13,6 +13,7 @@
 .*.cfg
 .installed.cfg
 .mr.developer.cfg
+.eggs/
 .hg/
 .bzr/
 .svn/
