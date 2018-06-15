@@ -5,7 +5,7 @@ version = '0.1.2'
 
 setup(name='plonetheme.grungeera',
       version=version,
-      description="Grungeera, is an installable Diazo theme for Plone 4",
+      description="GrungeEra, is an installable Diazo theme for Plone 4",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
