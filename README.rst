@@ -80,7 +80,7 @@ Zip file
 
 If you are an **end user**, you might enjoy installation via zip file import.
 
-1. Download a `zip file <https://github.com/redomino/plonetheme.grungeera/raw/master/plonetheme.grungeera.zip>`_.
+1. Download a `zip file <https://github.com/redomino/plonetheme.grungeera/raw/master/grungeera.zip>`_.
 2. Import the theme from the Diazo theme control panel.
 
 .. image:: https://github.com/redomino/plonetheme.grungeera/raw/master/docs/screenshot4.png
