@@ -25,7 +25,7 @@ Screenshots
 
 Layout of the site when viewed in a computer resolution:
 
-.. image:: https://github.com/collective/plonetheme.grungeera/raw/master/plonetheme/grungeera/static/preview.png
+.. image:: https://github.com/collective/plonetheme.grungeera/raw/master/plonetheme/grungeera/theme/preview.png
 
 
 Features
