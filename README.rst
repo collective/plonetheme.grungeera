@@ -25,7 +25,7 @@ Screenshots
 
 Layout of the site when viewed in a computer resolution:
 
-.. image:: https://github.com/redomino/plonetheme.grungeera/raw/master/plonetheme/grungeera/static/preview.png
+.. image:: https://github.com/collective/plonetheme.grungeera/raw/master/plonetheme/grungeera/static/preview.png
 
 
 Features
@@ -47,7 +47,7 @@ Add Plone site
 Install Plone 4.x with `plone.app.theming`_ and create a Plone site (if you have not already)
 with Diazo theming configured.
 
-.. image:: https://github.com/redomino/plonetheme.grungeera/raw/master/docs/screenshot2.png
+.. image:: https://github.com/collective/plonetheme.grungeera/raw/master/docs/screenshot2.png
 
 
 Buildout
@@ -80,10 +80,10 @@ Zip file
 
 If you are an **end user**, you might enjoy installation via zip file import.
 
-1. Download a `zip file <https://github.com/redomino/plonetheme.grungeera/raw/master/grungeera.zip>`_.
+1. Download a `zip file <https://github.com/collective/plonetheme.grungeera/raw/master/grungeera.zip>`_.
 2. Import the theme from the Diazo theme control panel.
 
-.. image:: https://github.com/redomino/plonetheme.grungeera/raw/master/docs/screenshot4.png
+.. image:: https://github.com/collective/plonetheme.grungeera/raw/master/docs/screenshot4.png
 
 
 Enabling the theme
@@ -95,8 +95,8 @@ Browse to ``http://yoursite/Plone/@@theming-controlpanel`` click on ``Enable`` o
 Contribute
 ==========
 
-- Issue Tracker: https://github.com/redomino/plonetheme.grungeera/issues
-- Source Code: https://github.com/redomino/plonetheme.grungeera
+- Issue Tracker: https://github.com/collective/plonetheme.grungeera/issues
+- Source Code: https://github.com/collective/plonetheme.grungeera
 
 
 Help
