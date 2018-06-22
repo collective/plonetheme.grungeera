@@ -4,6 +4,7 @@ Changelog
 0.1.2 (unreleased)
 ------------------
 
+- Added the right license information for this package [macagua]
 - Updated the Diazo manifest file [macagua]
 - Updated the Diazo theme package (Zip file) [macagua]
 - Added HTML5 validation for HTML file [macagua]
