@@ -15,7 +15,7 @@
 
     <genericsetup:registerProfile
         name="uninstall"
-        title="plonetheme.grungeera: Uninstall profile for Plone 4 Diazo Theme"
+        title="plonetheme.grungeera Uninstall"
         directory="profiles/uninstall"
         description="Uninstalls the plonetheme.grungeera package"
         provides="Products.GenericSetup.interfaces.EXTENSION"
