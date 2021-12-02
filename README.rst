@@ -114,7 +114,7 @@ License
 
 The author is not a "license guy", but the GrungeEra theme is distributed via CC 3.0 license [1]_ and this package is GPL version 2 (assuming that makes sense).
 
-.. [1] http://www.styleshout.com/about.php#license
+.. [1] https://www.styleshout.com/about.php#license
 
 Credits
 -------
@@ -122,8 +122,8 @@ Credits
 - Giacomo Spettoli, (giacomo.spettoli at gmail dot com).
 - Leonardo J. Caballero G. (leonardocaballero at gmail dot com).
 
-.. _`Plone`: http://plone.org
-.. _`GrungeEra`: http://www.styleshout.com/templates/preview/GrungeEra11/index.html
-.. _`Styleshout`: http://www.styleshout.com/
+.. _`Plone`: https://plone.org
+.. _`GrungeEra`: https://www.styleshout.com/templates/preview/GrungeEra11/index.html
+.. _`Styleshout`: https://www.styleshout.com/
 .. _`plone.app.theming`: https://pypi.org/project/plone.app.theming/
-.. _`Diazo`: http://diazo.org
+.. _`Diazo`: https://diazo.org
